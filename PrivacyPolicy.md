@@ -8,20 +8,25 @@ StalinBot ("the Bot") is committed to protecting the privacy of its users. This 
 We may collect and store the following information:
 
 -User Information: When you interact with the Bot, we may collect your Discord user ID, username, and any messages or commands you send to the Bot.
+
 -Server Information: We may collect information about the Discord servers where the Bot is active, including server ID, server name, and roles assigned to users.
+
 -Firebase Data: We use Firebase to store and manage data. This includes user roles, nicknames, and any other data relevant to the Bot's functionality.
 
 3. How We Use Your Information
 We use the information we collect for the following purposes:
 
 -To Provide and Maintain the Bot: To ensure the Bot functions correctly and to improve its features.
+
 -To Manage User Roles and Permissions: To manage user roles, censorship, and permissions as part of the Bot's functionality.
+
 -To Communicate with Users: To send messages and notifications to users as part of the Bot's functionality.
 
 4. How We Share Your Information
 We do not share your information with third parties except in the following circumstances:
 
 With Your Consent: We may share your information with third parties if you give us your explicit consent.
+
 For Legal Reasons: We may disclose your information if required to do so by law or in response to valid requests by public authorities.
 
 5. Data Security
@@ -34,8 +39,11 @@ We will retain your information for as long as necessary to fulfill the purposes
 You have the following rights regarding your information:
 
 -Access: You have the right to request a copy of the information we hold about you.
+
 -Correction: You have the right to request that we correct any inaccuracies in the information we hold about you.
+
 -Deletion: You have the right to request that we delete your information, subject to certain exceptions.
+
 -Objection: You have the right to object to the processing of your information under certain circumstances.
 
 8. Changes to This Privacy Policy
